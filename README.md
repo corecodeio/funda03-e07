@@ -79,5 +79,5 @@
 ## Run Javascript File On Node
 
 ```shell
-  $ node <FILE_NAME>
+  $ node <FILE_NAME>.js
 ```
