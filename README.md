@@ -15,7 +15,7 @@
 ## Get Out Of Folder
 
 ```shell
-  $ cd ...
+  $ cd ..
 ```
 
 ## Clean Terminal (Windows)
